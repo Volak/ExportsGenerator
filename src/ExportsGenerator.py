@@ -41,7 +41,7 @@ def main():
     while True:
         # Show descriptions and options
         print("[1] Module Parse: Parses the directory path into a nested module format.")
-        print("[2] Using Parse: Parses the directory path into a single 'using' statement.")
+        print("[2] Using{} Parse: Parses the directory path into a single 'using' statement.")
         choice = input("\nChoose an option: ")
 
         if choice not in ["1", "2"]:
