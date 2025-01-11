@@ -1,6 +1,6 @@
 # **ExportsGenerator**
 
-A simple yet **SUPER useful generator** for directory access using a directory path.
+A simple yet **SUPER useful generator** for manual directory access using a directory path.
 
 ---
 
