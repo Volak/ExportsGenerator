@@ -5,7 +5,7 @@ Easy way to generate directory access with a directory path input.
 -----
 ### Setup
 
-* Download [ExportGenerators.bat](src/ExportGenerator.bat)
+* Download [ExportGenerators.bat](src/ExportsGenerator.bat)
 
 
 
