@@ -1,17 +1,45 @@
-# ExportsGenerator
+# **ExportsGenerator**
 
-Simple yet SUPER useful generator for directory access using directory path.
+A simple yet **SUPER useful generator** for directory access using a directory path.
 
------
-### Setup
+---
 
-* Download [ExportGenerators.bat](src/ExportsGenerator.bat) and [ExportGenerators.py](src/ExportsGenerator.py)
-* Make sure both files are in the same directory(folder).
+## **Setup**
 
-### Execution
-* In your UEFN editor, copy the desired directory path
-  <a href="images/ExampleImage.jpg" >
-    <img src="images/ExampleImage.jpg">
-  </a>
-* Run [ExportGenerators.bat](src/ExportsGenerator.bat) and paste the copied directory path.
-* The bat file will automatically parse the directory path and copy it to your clipboard to paste into your _Exports file.
+1. Download the following files:
+   - [ExportsGenerator.bat](src/ExportsGenerator.bat)
+   - [ExportsGenerator.py](src/ExportsGenerator.py)
+2. Place both files in the same directory (folder).
+
+---
+
+## **Execution**
+
+1. In your **UEFN editor**, copy the desired directory path.  
+   <a href="images/ExampleImage.jpg">
+     <img src="images/ExampleImage.jpg" alt="Example directory path" width="600">
+   </a>
+
+2. Run [ExportsGenerator.bat](src/ExportsGenerator.bat).
+3. Choose from the following options:
+   - **Module Parse**  
+   - **Using{} Parse**
+   <a href="images/ExampleOptionsImage.jpg">
+     <img src="images/ExampleOptionsImage.jpg" alt="Options Given" width="600">
+   </a>
+---
+
+## **Parse** **Options**
+
+### **Module Parse**
+Provide details here, such as how to use this option or any example output.
+ <a href="images/ExampleOption1Image.jpg">
+   <img src="images/ExampleOption1Image.jpg" alt="Options Given" width="600">
+ </a>
+### **Using{} Parse**
+Provide details here, such as how to use this option or any example output.
+ <a href="images/ExampleOption2Image.jpg">
+   <img src="images/ExampleOption2Image.jpg" alt="Options Given" width="600">
+ </a>
+ 
+---
