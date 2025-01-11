@@ -6,7 +6,7 @@ REM Navigate to the script directory
 cd /d "%SCRIPT_DIR%"
 
 REM Run the Python script
-python ExportGenerator.py
+python ExportsGenerator.py
 
 REM Pause the console after execution
 pause
