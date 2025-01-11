@@ -29,15 +29,15 @@ A simple yet **SUPER useful generator** for directory access using a directory p
    </a>
 ---
 
-## **Parse** **Options**
+## **Parse Options**
 
 ### **Module Parse**
-Provide details here, such as how to use this option or any example output.
+Provide the directory path and the `Module Parsed Output` will be automatically copied to your clipboard.
  <a href="images/ExampleOption1Image.jpg">
    <img src="images/ExampleOption1Image.jpg" alt="Options Given" width="600">
  </a>
 ### **Using{} Parse**
-Provide details here, such as how to use this option or any example output.
+Provide the directory path and the `Using{} Parsed Output` will be automatically copied to your clipboard.
  <a href="images/ExampleOption2Image.jpg">
    <img src="images/ExampleOption2Image.jpg" alt="Options Given" width="600">
  </a>
