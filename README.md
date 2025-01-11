@@ -10,6 +10,6 @@ Easy way to generate directory access with a directory path input.
 
 
 
-  <a href="ignore/Example.jpg" >
-    <img src="ignore/Example.jpg">
+  <a href="images/Example.jpg" >
+    <img src="images/Example.jpg">
   </a>
